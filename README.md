@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2875/2875337.png", width="300", height="300">
+<img src="https://www.office1.com/hubfs/Office1%20Blog%20-%20Graphics%20and%20Images/Phishing%20Blog%201.png#keepProtocol", width="500", height="500">
 </p>
 <h1 align="center"> DEDSEC_GFS</h1>
 <h4 align="center">DEDSEC_GFS is a Linux-based Google Form Spammer capable of sending ultra-realistic account information (firstname, lastname, age, address, birthday, phone_number, email and password).</h4>
