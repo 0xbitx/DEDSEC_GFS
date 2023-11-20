@@ -9,6 +9,24 @@
 
 DEDSEC_GFS is a Linux-based tool designed for Google Form spamming. This powerful tool is equipped to send ultra-realistic account information, including accessible variables such as firstname, lastname, age, address, birthday, phone_number, email and password. Its capabilities make it a potent option for simulating authentic user submissions on Google Forms."
 
+
+<h3 align="center"> USABLE VARIABLE</h3>
+<div align="center">
+   
+| variable | Description                |
+| :-------- | ------------------------- |
+| 1. firstname  |  filipino and english name. |
+| 2. lastname  |   filipino and english lastname.|
+| 3. age  | calculated age from birthday. |
+| 4. address  | philippine cities. |
+| 5. birthday | random birthday. |
+| 6. phone_number  | philippine phone_number (smart, globe). |
+| 7. email | generated from firstname and lastname. |
+| 8. password  | generated from firstnane and lastname. |
+| 9. random_id | random id |
+   
+</div>
+
 <h3 align="center"> SPAMMER IMAGE</h3>
 <p align="center">
 <img src="https://i.imgur.com/5sPcA6e.png", width="900", height="900">
