@@ -68,8 +68,7 @@ DEDSEC_GFS is a Linux-based tool designed for Google Form spamming. This powerfu
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_GFS.git
     * cd DEDSEC_GFS
-    * sudo pip3 install pystyle pycryptodome tabulate
-    * sudo python3 dedsec_gfs.py
+    * python3 dedsec_gfs.py
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
