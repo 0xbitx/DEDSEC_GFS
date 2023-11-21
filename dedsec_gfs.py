@@ -1,7 +1,6 @@
 #CODED BY 0XBIT
 #License: MIT
 
-from pystyle import *
 import random, os, sys
 import warnings
 warnings.filterwarnings('ignore')
